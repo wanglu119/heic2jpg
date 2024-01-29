@@ -8,8 +8,8 @@ Heic 转 JPG工具。
 
 运行时:
 
-![heic2jpg_runtime_1.webp](./images/heic2jpg_runtime_1.webp)
+![heic2jpg_runtime_1.png](./images/heic2jpg_runtime_1.png)
 
 结果:
 
-![heic2jpg_runtime_2.webp](./images/heic2jpg_runtime_2.webp)
+![heic2jpg_runtime_2.png](./images/heic2jpg_runtime_2.png)
